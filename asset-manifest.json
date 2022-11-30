@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-prac-movies/static/css/main.1d90f6ef.css",
+    "main.js": "/react-prac-movies/static/js/main.075501e2.js",
+    "index.html": "/react-prac-movies/index.html",
+    "main.1d90f6ef.css.map": "/react-prac-movies/static/css/main.1d90f6ef.css.map",
+    "main.075501e2.js.map": "/react-prac-movies/static/js/main.075501e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d90f6ef.css",
+    "static/js/main.075501e2.js"
+  ]
+}
